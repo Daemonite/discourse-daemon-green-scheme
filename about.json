@@ -1,5 +1,5 @@
 {
-  "about_url": "https://github.com/Daemonite/discourse-clipboard",
+  "about_url": "https://github.com/Daemonite/discourse-daemon-green-scheme",
   "color_schemes": {
     "Daemon Green": {
       "primary": "212121",
@@ -14,6 +14,6 @@
       "love": "e91e63"
     }
   },
-  "license_url": "https://github.com/Daemonite/discourse-clipboard/blob/master/LICENSE",
-  "name": "Add a COPY TO CLIPBOARD feature for Discourse code blocks"
+  "license_url": "https://github.com/Daemonite/discourse-daemon-green-scheme/blob/master/LICENSE",
+  "name": "Daemon green colour scheme for Discourse"
 }
